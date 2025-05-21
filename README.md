@@ -1,4 +1,4 @@
-Ex02 Django ORM Web Application
+[Ex02 Django ORM Web Application
 Date:06/12/2024
 AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
@@ -45,3 +45,4 @@ Screenshot 2024-12-06 233314 WhatsApp Image 2024-12-12 at 13 30 14_7a5ef177 Scre
 
 RESULT
 Thus the program for creating a database using ORM hass been executed successfully
+](https://github.com/Manojkumar007-cs/ORM/edit/main/README.md)
